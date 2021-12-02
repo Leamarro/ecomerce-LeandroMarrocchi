@@ -1,0 +1,19 @@
+.img{
+    width: 30px;
+    height: 30px;
+}
+
+.inicio{
+    display: flex;
+    margin-left: 120px;
+}
+
+.centro{
+    display: flex;
+    margin-left: 230px;
+}
+
+.login{
+    display: flex;
+    margin-left: 320px;
+}
