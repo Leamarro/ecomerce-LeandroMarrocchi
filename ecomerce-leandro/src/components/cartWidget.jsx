@@ -1,9 +1,10 @@
 import React from 'react'
 import LocalGroceryStoreIcon from '@mui/icons-material/LocalGroceryStore';
+import './cartWidget.css'
 
 function cartWidget() {
     return (
-        <div>
+        <div className= "carro">
             <LocalGroceryStoreIcon/>
         </div>
     )

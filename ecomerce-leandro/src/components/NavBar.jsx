@@ -1,5 +1,5 @@
 import React from 'react'
-import cartWidget from './cartWidget'
+import CartWidget from './cartWidget'
 import './NavBar.css'
 
 
@@ -20,7 +20,7 @@ function NavBar() {
             <div className="login">
             <a type="button" href="#!" class="btn btn-light">Login</a>
             </div>
-            <cartWidget/>
+            <CartWidget/>
             </nav>
         </div>
     )
